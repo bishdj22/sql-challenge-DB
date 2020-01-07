@@ -13,7 +13,7 @@ WHERE
       hire_date >= '1/1/1986'
   AND hire_date <  '12/31/1986'
   
---Query 3 (consider re-arranging, renaming columns to match instruct):
+--Query 3:
 SELECT * FROM employees
 SELECT * FROM dept_manager
 SELECT * FROM departments
